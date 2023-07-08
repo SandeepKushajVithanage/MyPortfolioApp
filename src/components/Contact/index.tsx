@@ -9,7 +9,7 @@ const Contact = (props: Props) => {
       name="contact"
       className="w-full bg-gradient-to-b from-black to-gray-800 p-4 text-white py-24"
     >
-      <div className="flex flex-col p-4 justify-center max-w-screen-lg mx-auto h-full">
+      <div className="flex flex-col p-4 justify-center max-w-screen-md xl:max-w-screen-lg 2xl:max-w-screen-xl mx-auto h-full duration-700">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
             Contact

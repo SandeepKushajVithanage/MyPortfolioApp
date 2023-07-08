@@ -6,6 +6,8 @@ import About from "./components/About";
 import Protfolio from "./components/Portfolio";
 import Experience from "./components/Experience";
 import Contact from "./components/Contact";
+import Skills from "./components/Skills";
+import Testimonials from "./components/Testimonials";
 
 type Props = {};
 
@@ -15,8 +17,11 @@ const App = (props: Props) => {
       <NavBar />
       <Home />
       <About />
+
       <Protfolio />
       <Experience />
+      <Skills />
+      <Testimonials />
       <Contact />
       <SocialLinks />
     </>

@@ -19,6 +19,10 @@ import reactWeather from "./portfolio/reactWeather.jpg";
 import usestate from "./portfolio/usestate.jpg";
 import profile from "./profile.jpg";
 import heroImage from "./heroImage.jpg";
+import heroImg from "./heroImg.jpg";
+import pelicanCube from "./pelicanCube.jpeg";
+import avanicaSignIn from "./portfolio/avanicaSignIn.png";
+// avanicaSignIn
 
 export const Images = {
   css,
@@ -40,4 +44,7 @@ export const Images = {
   reactWeather,
   usestate,
   profile,
+  heroImg,
+  pelicanCube,
+  avanicaSignIn,
 };
